@@ -95,7 +95,6 @@ git checkout -b dev
  最后合并分支
 
 
-```
  git merge 用于合并指定分支到当前分支 
 
  git branch -d 合并的指定分支  删除合并的指定分支
