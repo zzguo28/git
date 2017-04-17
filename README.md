@@ -56,7 +56,7 @@ git checkout -b dev
 当我们上传文件的时候上传到某个分支 需要使用 git push origin dev
     意思就是上传到dev分支上面
 
-```
+
 当我们想要把某个远程分支上面的项目拉倒本地的时候需要使用
 
 
@@ -65,6 +65,7 @@ git checkout -b dev
 然后看一下状态 git branch -a
 
   解决上传文件之间的冲突
+
 
 ```
   1 善于使用git status 查看现在项目的整个状态
